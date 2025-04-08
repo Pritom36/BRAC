@@ -42,7 +42,7 @@
             "pin": "cd90ebcbdf6e3f4d35f5b04ebb32dbc938f09303813290b5b0a03e26d64e61ae",
             "deviceId": "",
             "expiryDate": "2025-11-31",
-            "isActive": true,
+            "isActive": false,
             "lastLogin": null
         },
         {
